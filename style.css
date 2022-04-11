@@ -1,0 +1,35 @@
+body,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+td:nth-child(1),
+th:nth-child(1),
+.holiday {
+  color: #bf1e2e;
+}
+
+table {
+  text-align: center;
+  margin: 10px;
+}
+
+.calender-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 14px;
+  justify-content: center;
+}
+
+.calender-title {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.title {
+  text-align: center;
+  font-size: 50px;
+  color: #bf1e2e;
+}
